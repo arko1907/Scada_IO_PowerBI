@@ -4,6 +4,9 @@ This repository contains a Power BI dashboard developed to analyze the IO Signal
 
 ---
 
+![image alt](https://github.com/arko1907/Scada_IO_PowerBI/blob/db3058528e0dc9beec102022ef2022d29ef32371/SCADA_Dashboard.jpg)
+
+
 ## 🎯 Problem Statement
 
 Auditing IO lists across multiple substations is typically manual, time-consuming, and error-prone. Stakeholders often lack a consolidated view of IO signal distribution, source quality, feeder types, and hardware/software split.
@@ -85,7 +88,9 @@ This dashboard aims to **automate the auditing process**, provide **standardized
 
 ## 📷 Screenshot Preview
 
-![Dashboard Overview](https://github.com/arko1907/Scada_IO_PowerBI/blob/main/Screenshot%202025-06-12%20132723.png)
+- 🔢[Dashboard Overview](https://github.com/arko1907/Scada_IO_PowerBI/blob/main/SCADA_Dashboard.jpg)
+- ![Dashboard Preview](images/dashboard.jpeg)
+- <img src="arko1907/Scada_IO_PowerBI/blob/main/SCADA_Dashboard.jpg" alt="Dashboard Preview" width="600"/>
 
 ---
 
