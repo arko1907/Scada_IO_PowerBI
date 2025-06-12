@@ -4,7 +4,7 @@ This repository contains a Power BI dashboard developed to analyze the IO Signal
 
 ---
 
-![image alt](https://github.com/arko1907/Scada_IO_PowerBI/blob/db3058528e0dc9beec102022ef2022d29ef32371/SCADA_Dashboard.jpg)
+![image alt](https://github.com/arko1907/Scada_IO_PowerBI/blob/86c80828d7e141e969c3673030aaa74a4962b387/SCADADashboard.jpg)
 
 
 ## 🎯 Problem Statement
