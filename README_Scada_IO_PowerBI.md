@@ -64,20 +64,13 @@ This dashboard aims to **automate the auditing process**, provide **standardized
 ### 1. Inconsistent File Structures
 - Excel files across substations had different formats, headers, and layouts.
 
-### 2. Missing or Incomplete Data
-- Columns like Signal Type or Hard/Soft classification had blanks or invalid entries.
-
-### 3. Classification Challenges
+### 2. Classification Challenges
 - Soft/Hard signal categorization lacked consistency, requiring normalization.
 
-### 4. Feeder and Voltage Level Variability
-- Feeder names and voltage levels were not standardized (`11kV`, `11 KV`, etc.) – needed transformation rules.
-
-### 5. Scalability and Maintenance
+### 3. Scalability and Maintenance
 - Built with flexibility so new substations can be added by placing files in the folder.
 
-### 6. Performance Tuning
-- Optimized large visual datasets (nearly 20,000 rows) using efficient DAX and slicer configurations.
+
 
 ---
 
@@ -92,7 +85,7 @@ This dashboard aims to **automate the auditing process**, provide **standardized
 
 ## 📷 Screenshot Preview
 
-![Dashboard Overview](./Total_raw/dashboard_overview.png)
+![Dashboard Overview](https://github.com/arko1907/Scada_IO_PowerBI/blob/main/Screenshot%202025-06-12%20132723.png)
 
 ---
 
