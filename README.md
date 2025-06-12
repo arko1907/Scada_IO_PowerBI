@@ -73,8 +73,6 @@ This dashboard aims to **automate the auditing process**, provide **standardized
 ### 3. Scalability and Maintenance
 - Built with flexibility so new substations can be added by placing files in the folder.
 
-
-
 ---
 
 ## 📌 How to Use
@@ -83,14 +81,6 @@ This dashboard aims to **automate the auditing process**, provide **standardized
 2. Open `SS_IO_Check_p.pbix` in Power BI Desktop.
 3. Place all `.xlsx` substation files in the `Total_raw` directory.
 4. Refresh the dashboard to update visuals with the latest data.
-
----
-
-## 📷 Screenshot Preview
-
-- 🔢[Dashboard Overview](https://github.com/arko1907/Scada_IO_PowerBI/blob/main/SCADA_Dashboard.jpg)
-- ![Dashboard Preview](images/dashboard.jpeg)
-- <img src="arko1907/Scada_IO_PowerBI/blob/main/SCADA_Dashboard.jpg" alt="Dashboard Preview" width="600"/>
 
 ---
 
